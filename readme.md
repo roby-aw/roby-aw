@@ -14,6 +14,6 @@ as a code craftsman, here are some of the technologies I usually use
 
 
 #### My Project
-[API-Loyalty-Point-Agent](https://github.com/roby-aw/Mini-Project-Jasa-Pengiriman)
+[API-Loyalty-Point-Agent](https://github.com/capstone-kelompok-25/api-loyalty-poins.id)
 
 [API-Jasa-Pengiriman](https://github.com/roby-aw/Mini-Project-Jasa-Pengiriman)
