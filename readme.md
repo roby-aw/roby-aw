@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roby-aw&theme=onedark&no-bg=true&no-frame=true&column=5&rank=-?,-C" alt="roby-aw" /></a> </p>
 
-- 🌱 I’m currently learning **Golang and Java Springboot**
+- 🌱 I’m currently learning **Golang, Java Springboot, and Blockchain using Go-Ethereum**
 
 - 💬 Ask me about **Golang, Mongodb, Caching with redis, Docker, Kubernetes, CI/CD, and etc**
 
